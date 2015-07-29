@@ -1,0 +1,14 @@
+Pods/
+sampleRealm/sampleRealm/sampleRealm.xcworkspace/
+sampleRealm/Podfile.lock
+sampleRealm/sampleRealm/sampleRealm-app.xcodeproj/
+sampleRealm/sampleRealm/sampleRealm-app.xcworkspace/
+sampleRealm/sampleRealm.xcodeproj/project.pbxproj
+sampleRealm/sampleRealm.xcodeproj/project.pbxproj
+*.xcworkspacedata
+sampleRealm/sampleRealm.xcodeproj/project.xcworkspace/xcuserdata
+sampleRealm/sampleRealm.xcodeproj/xcuserdata/satoutakeshi.xcuserdatad/xcschemes
+sampleRealm/sampleRealm.xcworkspace/xcuserdata/satoutakeshi.xcuserdatad
+*.ipa
+*.txt
+sampleRealm/sampleRealm.xcworkspace/
